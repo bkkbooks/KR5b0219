@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0219/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶河圖仰謝三十六土皇齋儀
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 00:14:24.322857'
+  source:
+    repository: kanripo
+    path: KR5b0219/KR5b0219_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:df7e5ed6825b94987ae9ce7f3cf6e71f1eed8074b9bcd93a5b39a025362638a8
